@@ -20,4 +20,5 @@ docker-compose up
 ```
 
 Q: why docker-compose has only redis?
+
 Ans: i'm too lazy to create Dockerfile lol
